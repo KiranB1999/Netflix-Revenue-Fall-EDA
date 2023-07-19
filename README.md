@@ -1,2 +1,2 @@
 # Netflix-Revenue-Fall-EDA
-I this project I have analysied the netflix data using python.
+In this project, I have used the Netflix data found on Kaggle to performed exploratory data analysis and extract data insights. 
